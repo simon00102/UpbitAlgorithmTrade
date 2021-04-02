@@ -1,0 +1,6 @@
+pandas
+jupyter
+numpy
+mplfinance
+requests
+pyjwt
